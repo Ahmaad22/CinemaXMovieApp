@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1063586552091",
+    "project_id": "movie-app-c668d",
+    "storage_bucket": "movie-app-c668d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063586552091:android:ce8d764058187ff454dbbe",
+        "android_client_info": {
+          "package_name": "com.example.cinemax_movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063586552091-vc33t3bm6i23c7mechm26r237591k501.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinemax_movie_app",
+            "certificate_hash": "8b40ae9dff556eca8cf724f2ecf5cea4a0a11a80"
+          }
+        },
+        {
+          "client_id": "1063586552091-e30k5kvqivh0doblmvgngu8r10ghn5p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpCOms7TKrxZiHdvg22vYuKGwbrN1k8No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063586552091-e30k5kvqivh0doblmvgngu8r10ghn5p2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1063586552091-sk4q9usoa1mgbq9srgcus3fes2j6ncrl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinemaxMovieApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

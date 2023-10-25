@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_client_token">123-THIS-IS-YOUR-CLIENT-TOKEN</string>
+
+
+    <string name="app_name">MovieApp</string>
+    <string name="facebook_app_id">7133200873367886</string>
+    <string name="fb_login_protocol_scheme">fbc7afbd3b101b46a07dc7b7c003d8e91c</string>
+</resources>
